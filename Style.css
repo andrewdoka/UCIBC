@@ -1,0 +1,36 @@
+a {color: green;}
+
+body {font-family: 'Times New Roman', Times, serif; background-color: black;}
+
+
+p {font-size: 28px;}
+
+#sandtitle {color: red; text-decoration: underline;}
+
+.fontwhite {color: whitesmoke} 
+
+h3 { color: whitesmoke}
+
+h4 {color: whitesmoke}
+
+h1 {color: blue; font-size: 90px;}
+
+h5 {color: whitesmoke}
+
+h2 {text-align: center;}
+
+h1 {text-align: center;}
+
+h3 {text-align: center;} 
+
+h4 {text-align:left}
+
+h1 {box-align: center;}
+
+img { display: block; margin: auto;}
+
+
+table, th, td {
+  border: 1px solid whitesmoke;
+  border-collapse: collapse;
+}
